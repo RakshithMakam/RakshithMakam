@@ -19,17 +19,17 @@
  
  <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=karthikchalla7&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikchalla7&layout=compact&theme=tokyonight"  display=block width=100% height=auto  alt="2" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=RakshithMakam&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshithMakam&layout=compact&theme=tokyonight"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
 </table> -->
  
  <div class="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikchalla7&theme=radical&show_icons=true"  display=block width=90% height=200px  alt="3" >
+  <img src="https://github-readme-stats.vercel.app/api?username=RakshithMakam&theme=radical&show_icons=true"  display=block width=90% height=200px  alt="3" >
  </div>
  
  <div class="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikchalla7&theme=tokyonight" display=block width=90% height=200px alt="3" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakshithMakam&theme=tokyonight" display=block width=90% height=200px alt="3" >
  </div>
 <!-- https://github-readme-stats.vercel.app/api?username=karthikchalla7&bg_color=151515&show_icons=true&icon_color=fa8b00&border_color=b9b8b8&title_color=fff&text_color=fff -->
 <span>
