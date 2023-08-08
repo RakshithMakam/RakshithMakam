@@ -12,7 +12,7 @@
 </ul>
 👀 I’m Keenly interested in fields of Data Science.
 <h3 align="left">Connect with me:</h2>
-<a href="https://www.instagram.com/rakshith.makam/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40">
+<a href="https://www.instagram.com/rakshith.makam/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 <!--<a href="https://mobile.twitter.com/"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40"> -->
 <a href="https://www.linkedin.com/in/ranga-rakshith-makam-520157173/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 <!-- 
