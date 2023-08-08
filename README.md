@@ -1,20 +1,20 @@
 <h1 align="center">Hi👋 Myself Rakshith</h1>
 <br>
-<h3 align="center">I am a Pre-final Year B.Tech Student pursuing Computer Science and Engineering from Vellore Institute of Technology. A tech enthusiast with avid enthusiasm to learn and explore. I am kneeling interested in AI-ML, Data Science. I am interested in expanding my knowledge in various fields. I'm curious, passionate, and focused on learning new things and implementing the same in solving real-world problems. I truly believe in teamwork to maximize the benefits of various perspectives on an idea and increase effectiveness.</h3>
+<h3 align="center">I am a Pre-final Year B.Tech Student pursuing Information Technology from Vellore Institute of Technology. A tech enthusiast with avid enthusiasm to learn and explore. I am kneeling interested in AI-ML, Data Science. I am interested in expanding my knowledge in various fields. I'm curious, passionate, and focused on learning new things and implementing the same in solving real-world problems. I truly believe in teamwork to maximize the benefits of various perspectives on an idea and increase effectiveness.</h3>
 
  📫 How to reach me: *rakshithmakam@gmail.com*
 
 <br>
 <ul>
-<li>🌱 I'm currently working in Data Field</li>
-<li> 😎 I'm currently working on projects based on Web Development, Data Analysis</li>
+<!--<li>🌱 I'm currently working in Data Field</li>-->
+<li> 😎 I'm currently working on projects based on Machine Learning</li>
 <li>👯 I'm open to collaborate with other content creators</li>
 </ul>
 👀 I’m Keenly interested in fields of Data Science.
 <h3 align="left">Connect with me:</h2>
-<a href="https://www.instagram.com/karthik__challa/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40">
-<!--<a href="https://mobile.twitter.com/Bhavesh_VSSB"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40"> -->
-<a href="https://www.linkedin.com/in/karthik-challa-aa12a1234/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+<a href="https://www.instagram.com/rakshith.makam/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40">
+<!--<a href="https://mobile.twitter.com/"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40"> -->
+<a href="https://www.linkedin.com/in/ranga-rakshith-makam-520157173/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 <!-- 
  
  <table>
